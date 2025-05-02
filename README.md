@@ -29,7 +29,7 @@ Here are some of the Python repositories I’ve worked on:
 ### 📫 How to Reach Me
 
 - 💌 Email: amritbharati15@gmail.com
-- 📘 Facebook: [अमृत भारती](https://www.facebook.com/search/top?q=अमृत%20भारती)
+- 📘 Facebook: [अमृत भारती](https://www.facebook.com/AMR010101?_rdc=1&_rdr#)
 
 ---
 
