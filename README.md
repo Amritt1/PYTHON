@@ -22,7 +22,6 @@ I'm currently learning **Python** as my first programming language. I'm sharing 
 Here are some of the Python repositories I’ve worked on:
 
 - [Beginner Python Scripts](https://github.com/Amritt1) — Basic programs for learning  
-*(Add more specific repo links here later if you want)*
 
 ---
 
